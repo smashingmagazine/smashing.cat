@@ -13,3 +13,7 @@ That way we don't have a FOIT or FOUT or anything and we are much faster than wi
 Apart from that it's mostly straight-forward. I'm using the sizes attribute for the `<img>` element in order to provide an SVG to capable browsers with a PNG fallback for all the others.
 
 In the CSS I'm working with a few different mediaqueries to keep a reasonable, readable experience on spot for as many devices and viewport-sizes as possible.
+
+## Hosting
+
+The website is now hosted at Mediatemple.
