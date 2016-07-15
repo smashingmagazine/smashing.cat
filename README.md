@@ -28,6 +28,10 @@ I'm using the following plugins (s. package.json file for the exact versions):
 - gulp-postcss
 - gulp-uglify
 
+## Adding in a Service Worker
+
+As smashing.cat runs over HTTP (without the "s") the Service Worker is not production ready judging from the server-side of things. I'll run and test it locally though.
+
 ## Hosting
 
 The website is now hosted at Mediatemple.
