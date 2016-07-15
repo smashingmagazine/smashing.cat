@@ -1,6 +1,6 @@
 # Smashing.cat
 
-This repo holds all code for the [http://smashing.cat](smashing.cat) project.
+This repo holds all code for the [smashing.cat](http://smashing.cat) project.
 
 ## A few things to mention
 
