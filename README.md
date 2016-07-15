@@ -12,6 +12,22 @@ Apart from that it's mostly straight-forward. I'm using the sizes attribute for 
 
 In the CSS I'm working with a few different mediaqueries to keep a reasonable, readable experience on spot for as many devices and viewport-sizes as possible.
 
+## Using Gulp
+
+I set up Gulp for this respository in order to learn how to use it for basic front end development. The workflow is not ideal yet and something with the LESS processing is off because I had to dismiss my `variables` file. Also when running browser-sync the watch task does nothing – just like "ze goggles"!
+
+I'm using the following plugins (s. package.json file for the exact versions):
+
+- autoprefixer
+- browser-sync
+- cssnano
+- gulp-cache
+- gulp-htmlmin
+- gulp-imagemin
+- gulp-less
+- gulp-postcss
+- gulp-uglify
+
 ## Hosting
 
 The website is now hosted at Mediatemple.
